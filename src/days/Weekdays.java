@@ -18,6 +18,10 @@ public class Weekdays {
         }
         System.out.println("Invalid day number");
     }
+
+    void nameOfDay(String code) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
 
 
